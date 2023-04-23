@@ -1,6 +1,6 @@
 public class Greetings {
     public static void main(String[] args) {
-        String username = "user";
+        String username = "username";
         if(args.length > 0)
         {
             username = args[0];
